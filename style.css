@@ -25,6 +25,15 @@ h1{
     font-size: 65px;
 }
 
+h2{
+    font-size: 40px;
+}
+
+h3{
+    font-size: 30px;
+    color: black;
+}
+
 .top-banner{
     background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
@@ -85,4 +94,43 @@ h1{
     margin-right: 100px;
     margin-left: 200px;
     border-radius: 15px;
+}
+
+
+
+.recipe-area{
+margin-left: 10%;
+margin-right: 5%;
+margin-top: 100px;
+}
+
+
+.recipie-item{
+    width: 25%;
+    margin-left: 2%;
+    margin-right: 2%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 25px;
+}
+
+
+.recipie-item img{
+    width: 86%;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.recipe-text{
+    text-align: center;
+    margin-bottom: 40px;
+    margin-left: 150px;
+    margin-right: 200px;
+}
+
+.recipe-title-text{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0;
+    padding-top: 20px;
 }
