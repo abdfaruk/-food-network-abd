@@ -34,6 +34,10 @@ h3{
     color: black;
 }
 
+h4{
+    font-size: 30px;
+}
+
 .top-banner{
     background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
@@ -133,4 +137,38 @@ margin-top: 100px;
     padding-right: 20px;
     margin: 0;
     padding-top: 20px;
+}
+
+
+.flower-item{
+    width: 90%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+    margin-left: 75px;
+}
+
+
+.flower-content{
+    width: 25%;
+    margin-left: 150px;
+}
+
+.number{
+    color: black;
+}
+
+.followers-text{
+    margin-bottom: 60px;
+
+}
+
+#footer{
+    width: 100%;
+    background-color: black;
+    padding: 40px;
+}
+
+#footer-text{
+    text-align: center;
+    color: white;
 }
